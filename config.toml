@@ -3,7 +3,6 @@ languageCode  = 'en-us'
 title         = '101loops'
 theme         = "introduction"
 publishDir    = "docs"
-canonifyURLs  = false
 
 [security]
   [security.exec]
