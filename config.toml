@@ -1,0 +1,11 @@
+baseURL       = 'http://www.101loops.com/'
+languageCode  = 'en-us'
+title         = '101loops'
+theme         = "introduction"
+publishDir    = "docs"
+
+[languages]
+    [languages.en]
+        [languages.en.params]
+            description  = "101loops"
+            footerText   = "Cloud-based software development."
