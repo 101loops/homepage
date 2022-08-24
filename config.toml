@@ -5,6 +5,10 @@ theme         = "introduction"
 publishDir    = "docs"
 canonifyURLs  = false
 
+[security]
+  [security.exec]
+    osEnv = ['.*']
+
 [languages]
     [languages.en]
         [languages.en.params]
