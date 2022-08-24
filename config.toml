@@ -1,4 +1,4 @@
-baseURL       = 'http://www.101loops.com/'
+baseURL       = 'https://www.101loops.com/'
 languageCode  = 'en-us'
 title         = '101loops'
 theme         = "introduction"
